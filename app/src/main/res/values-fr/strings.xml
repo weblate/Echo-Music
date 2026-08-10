@@ -615,4 +615,16 @@
     <string name="enable_similar_content_desc">Activer ou désactiver les contenus similaires</string>
     <string name="enable_swipe_thumbnail_desc">Activer ou désactiver le glissement pour changer de morceau</string>
     <string name="export_directory_desc">Gérer les paramètres du dossier d\'exportation</string>
+    <string name="density_restart_message_desc">Gérer la modification de la densité d\'affichage prendra effet après le redémarrage de l\'application. Voulez-vous redémarrer maintenant ? Paramètres</string>
+    <string name="disable_desc">Gérer les paramètres de désactivation</string>
+    <string name="downloaded_songs_desc">Gérer les paramètres des morceaux téléchargés</string>
+    <string name="echomusic_1_desc">Gérer les paramètres de Vivi Music (Fluide)</string>
+    <string name="enable_kugou_desc">Activer ou désactiver le fournisseur de paroles KuGou</string>
+    <string name="enable_lrclib_desc">Activer ou désactiver le fournisseur de paroles LrcLib</string>
+    <string name="enable_proxy_desc">Activer ou désactiver le proxy</string>
+    <string name="fade_desc">Gérer les paramètres de fondu</string>
+    <string name="filter_library_desc">Gérer les paramètres de la bibliothèque</string>
+    <string name="filter_local_desc">Gérer les paramètres locaux</string>
+    <string name="follow_theme_desc">Personnaliser le thème « Suivre » de l\'application</string>
+    <string name="general_desc">Gérer les paramètres généraux</string>
 </resources>
